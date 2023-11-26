@@ -73,7 +73,7 @@ h4,
 h5,
 h6 {
   clear: both;
-  color: #cd6719;
+  color: #ff8e00;
   padding: 0;
   margin: 0 0 20px 0;
   font-weight: 600;
@@ -752,7 +752,7 @@ hr {
 }
 
 .cs-primary_color {
-  color: #cd6719;
+  color: #ff8e00;
 }
 
 .cs-accent_color,
@@ -886,7 +886,7 @@ hr {
 
 .cs-primary_bg,
 .cs-primary_bg_hover:hover {
-  background-color: #cd6719;
+  background-color: #ff8e00;
 }
 
 .cs-accent_seperator_1 {
@@ -925,7 +925,7 @@ hr {
   border-width: 1px;
   border-style: solid;
   border-color: transparent;
-  color: #cd6719;
+  color: #ff8e00;
   position: relative;
   line-height: 1.6em;
   cursor: poBelanosima;
@@ -950,18 +950,18 @@ hr {
 }
 
 .cs-btn.cs-color1:hover {
-  background-color: #cd6719;
+  background-color: #ff8e00;
   color: #fff;
 }
 
 .cs-btn_bordered {
-  border-color: #cd6719;
+  border-color: #ff8e00;
 }
 
 .cs-btn_bordered:hover {
-  border-color: #cd6719;
+  border-color: #ff8e00;
   color: #fff;
-  background-color: #cd6719;
+  background-color: #ff8e00;
 }
 
 .cs-btn_filed::after {
@@ -995,7 +995,7 @@ hr {
 .cs-white_btn {
   background-color: #fff;
   border-color: #fff;
-  color: #cd6719;
+  color: #ff8e00;
 }
 
 .cs-white_btn:hover {
@@ -1024,8 +1024,8 @@ hr {
 
 .cs-primary_btn {
   color: #fff;
-  background-color: #cd6719;
-  border-color: #cd6719;
+  background-color: #ff8e00;
+  border-color: #ff8e00;
 }
 
 .cs-primary_btn:hover {
@@ -1226,7 +1226,7 @@ hr {
   position: absolute;
   height: 24px;
   width: 24px;
-  background-color: #cd6719;
+  background-color: #ff8e00;
   top: 20px;
   right: 20px;
   -webkit-transition: all 0.3s ease;
@@ -1357,7 +1357,7 @@ hr {
   position: absolute;
   right: 15px;
   top: 15px;
-  background-color: #cd6719;
+  background-color: #ff8e00;
 }
 
 .cs-close_modal:hover {
@@ -1442,7 +1442,7 @@ ul.cs-list.cs-style2 li:not(:last-child) {
   text-align: center;
   padding: 12px 20px;
   background-color: transparent;
-  color: #cd6719;
+  color: #ff8e00;
   border-color: #eaeaea;
   border-radius: 0 !important;
 }
@@ -2892,7 +2892,7 @@ ul.cs-list.cs-style2 li:not(:last-child) {
     border-right: 1px solid #eaeaea;
   }
   .cs-nav .cs-nav_list .cs-mega-wrapper > li > a {
-    color: #cd6719;
+    color: #ff8e00;
     font-weight: 600;
   }
   .cs-nav .cs-nav_list .cs-mega-wrapper > li > a:hover {
@@ -3835,12 +3835,12 @@ ul.cs-list.cs-style2 li:not(:last-child) {
 
 .cs-dark .cs-btn_bordered:hover {
   border-color: #fff;
-  color: #cd6719;
+  color: #ff8e00;
   background-color: #fff;
 }
 
 .cs-dark .cs-form_field_wrap label {
-  background-color: #cd6719;
+  background-color: #ff8e00;
 }
 
 .cs-dark .cs-btn,
@@ -3894,7 +3894,7 @@ ul.cs-list.cs-style2 li:not(:last-child) {
 
 .cs-dark .cs-card.cs-style1::before,
 .cs-dark .cs-card.cs-style1::after {
-  background-color: #cd6719;
+  background-color: #ff8e00;
   border-color: #394552;
 }
 
@@ -3921,7 +3921,7 @@ ul.cs-list.cs-style2 li:not(:last-child) {
 }
 
 .cs-dark .cs-white_btn {
-  color: #cd6719;
+  color: #ff8e00;
 }
 
 .cs-dark .cs-white_btn:hover {
@@ -4005,7 +4005,7 @@ ul.cs-list.cs-style2 li:not(:last-child) {
 }
 
 .cs-dark .cs-light_bg {
-  background: #e94876ca;
+  background: #ff8e00;
 }
 
 .cs-card.cs-style2 .cs-card_number {
@@ -4013,11 +4013,11 @@ ul.cs-list.cs-style2 li:not(:last-child) {
   width: 48px;
   border-radius: 50%;
   position: relative;
-  background: #e94876ca;
+  background: #ff8e00;
 }
 
 .cs-dark .cs-cta.cs-style1 {
-  background: #e94876ca; /* Semi-transparent white */
+  background: #ff8e00; /* Semi-transparent white */
   border-radius: 10px; /* Optional: for rounded corners */
   backdrop-filter: blur(10px); /* Creates the frosted glass effect */
   border: 1px solid rgba(255, 255, 255, 0.3);
