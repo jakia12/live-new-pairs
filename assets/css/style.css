@@ -4022,3 +4022,9 @@ ul.cs-list.cs-style2 li:not(:last-child) {
   backdrop-filter: blur(10px); /* Creates the frosted glass effect */
   border: 1px solid rgba(255, 255, 255, 0.3);
 }
+
+@media screen and (max-width: 768px) {
+  .d_none {
+    display: none;
+  }
+}
